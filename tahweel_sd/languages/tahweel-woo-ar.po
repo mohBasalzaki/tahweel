@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-05-16 07:51+0300\n"
+"PO-Revision-Date: 2024-05-16 07:52+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: tahweel-for-woocommerce.php:31
+msgid "Tahweel"
+msgstr "تحويل"
+
+#: tahweel-for-woocommerce.php:32
+msgid "Tahweel is a Bank Transfer Plugin."
+msgstr "تحويل هي اضافة تأكيد الحوالات البنكي"
+
+#: tahweel-for-woocommerce.php:55
+msgid "Enable/Disable"
+msgstr "تمكين/ تعطيل"
+
+#: tahweel-for-woocommerce.php:57
+msgid "Enable or Disable Tahweel"
+msgstr "تمكين أو تعطيل التحويل"
+
+#: tahweel-for-woocommerce.php:61 tahweel-for-woocommerce.php:63
+msgid "Bank Transfer"
+msgstr "تحويل بنكي"
+
+#: tahweel-for-woocommerce.php:66
+msgid "Tahweel Description"
+msgstr "الوصف"
+
+#: tahweel-for-woocommerce.php:68
+msgid "Please remit your payment to the shop to allow for the delivery to be made"
+msgstr "يرجى تحويل الدفعة إلى المتجر للسماح بالتسليم"
+
+#: tahweel-for-woocommerce.php:71
+msgid "Instructions"
+msgstr "تعليمات"
+
+#: tahweel-for-woocommerce.php:73
+msgid "Default instructions"
+msgstr "التعليمات الافتراضية"
+
+#: tahweel-for-woocommerce.php:76 tahweel-for-woocommerce.php:147
+#: tahweel-for-woocommerce.php:164
+msgid "Bank Name"
+msgstr "اسم البنك"
+
+#: tahweel-for-woocommerce.php:79
+msgid "- Choose your bank -"
+msgstr "- اختر البنك الخاص بك -"
+
+#: tahweel-for-woocommerce.php:80 tahweel-for-woocommerce.php:167
+msgid "National Bank of Sudan"
+msgstr "البنك الأهلي السوداني"
+
+#: tahweel-for-woocommerce.php:81 tahweel-for-woocommerce.php:168
+msgid "National Bank of Egypt"
+msgstr "البنك الأهلي المصري"
+
+#: tahweel-for-woocommerce.php:82 tahweel-for-woocommerce.php:169
+msgid "Sudanese Islamic Bank"
+msgstr "البنك الإسلامي السوداني"
+
+#: tahweel-for-woocommerce.php:83 tahweel-for-woocommerce.php:170
+msgid "Agricultural Bank of Sudan"
+msgstr "البنك الزراعي السوداني"
+
+#: tahweel-for-woocommerce.php:84 tahweel-for-woocommerce.php:171
+msgid "Saudi Sudanese Bank"
+msgstr "البنك السعودي السوداني"
+
+#: tahweel-for-woocommerce.php:85 tahweel-for-woocommerce.php:172
+msgid "Sudanese French Bank"
+msgstr "البنك السوداني الفرنسي"
+
+#: tahweel-for-woocommerce.php:86 tahweel-for-woocommerce.php:173
+msgid "Sudanese Egyptian Bank"
+msgstr "البنك السوداني المصري"
+
+#: tahweel-for-woocommerce.php:87 tahweel-for-woocommerce.php:174
+msgid "Arabic Sudanese Bank"
+msgstr "البنك العربي السوداني"
+
+#: tahweel-for-woocommerce.php:88 tahweel-for-woocommerce.php:175
+msgid "Real Estate Commercail Bank"
+msgstr "البنك العقاري التجاري"
+
+#: tahweel-for-woocommerce.php:89 tahweel-for-woocommerce.php:176
+msgid "Arab Bank for Economic Development in Africa (BADEA)"
+msgstr "المصرف العربي للتنمية الاقتصادية في إفريقيا"
+
+#: tahweel-for-woocommerce.php:90 tahweel-for-woocommerce.php:177
+msgid "Ivory Bank"
+msgstr "بنك آيفوري"
+
+#: tahweel-for-woocommerce.php:91 tahweel-for-woocommerce.php:178
+msgid "Omdurman National Bank"
+msgstr "بنك أم درمان الوطني"
+
+#: tahweel-for-woocommerce.php:92 tahweel-for-woocommerce.php:179
+msgid "Family Bank"
+msgstr "بنك الأسرة"
+
+#: tahweel-for-woocommerce.php:93 tahweel-for-woocommerce.php:180
+msgid "Financial Investment Bank"
+msgstr "بنك الاستثمار المالي"
+
+#: tahweel-for-woocommerce.php:94 tahweel-for-woocommerce.php:181
+msgid "AlBaraka Bank Sudan"
+msgstr "بنك البركة السوداني"
+
+#: tahweel-for-woocommerce.php:95 tahweel-for-woocommerce.php:182
+msgid "Tadamon Bank"
+msgstr "بنك التضامن الإسلامي السوداني"
+
+#: tahweel-for-woocommerce.php:96 tahweel-for-woocommerce.php:183
+msgid "Animal Resources Bank"
+msgstr "بنك الثروة الحيوانية"
+
+#: tahweel-for-woocommerce.php:97 tahweel-for-woocommerce.php:184
+msgid "Aljazeera Sudanese Jordanian Bank"
+msgstr "بنك الجزيرة السوداني الأردني"
+
+#: tahweel-for-woocommerce.php:98 tahweel-for-woocommerce.php:185
+msgid "Bank of Khartoum"
+msgstr "بنك الخرطوم"
+
+#: tahweel-for-woocommerce.php:99 tahweel-for-woocommerce.php:186
+msgid "Workers National Bank"
+msgstr "بنك العمال الوطني"
+
+#: tahweel-for-woocommerce.php:100 tahweel-for-woocommerce.php:187
+msgid "United Capital Bank"
+msgstr "بنك المال المتحد"
+
+#: tahweel-for-woocommerce.php:101 tahweel-for-woocommerce.php:188
+msgid "AlNile Bank"
+msgstr "بنك النيل"
+
+#: tahweel-for-woocommerce.php:102 tahweel-for-woocommerce.php:189
+msgid "Blue Nile Mashreg Bank"
+msgstr "بنك النيل الأزرق المشرق"
+
+#: tahweel-for-woocommerce.php:103 tahweel-for-woocommerce.php:190
+msgid "El Nilein Bank"
+msgstr "بنك النيلين"
+
+#: tahweel-for-woocommerce.php:104 tahweel-for-woocommerce.php:191
+msgid "Byblos Bank"
+msgstr "بنك بيبلوس"
+
+#: tahweel-for-woocommerce.php:105 tahweel-for-woocommerce.php:192
+msgid "Export Development Bank"
+msgstr "بنك تنمية الصادرات"
+
+#: tahweel-for-woocommerce.php:106 tahweel-for-woocommerce.php:193
+msgid "Faisal Islamic Bank Sudan"
+msgstr "بنك فيصل الإسلامي السوداني"
+
+#: tahweel-for-woocommerce.php:107 tahweel-for-woocommerce.php:194
+msgid "Savings and Social Development Bank"
+msgstr "مصرف الادخار والتنمية الاجتماعية"
+
+#: tahweel-for-woocommerce.php:108 tahweel-for-woocommerce.php:195
+msgid "Balad Bank Sudan"
+msgstr "مصرف البلد"
+
+#: tahweel-for-woocommerce.php:109 tahweel-for-woocommerce.php:196
+msgid "Industrial Development Bank"
+msgstr "مصرف التنمية الصناعية"
+
+#: tahweel-for-woocommerce.php:110 tahweel-for-woocommerce.php:197
+msgid "BSIC Bank"
+msgstr "مصرف الساحل والصحراء"
+
+#: tahweel-for-woocommerce.php:111 tahweel-for-woocommerce.php:198
+msgid "Al Salam Bank"
+msgstr "مصرف السلام"
+
+#: tahweel-for-woocommerce.php:112 tahweel-for-woocommerce.php:199
+msgid "Commercial Farmer Bank"
+msgstr "مصرف المزارع التجاري"
+
+#: tahweel-for-woocommerce.php:117
+msgid "Account Name"
+msgstr "اسم الحساب"
+
+#: tahweel-for-woocommerce.php:122 tahweel-for-woocommerce.php:157
+msgid "Account Number"
+msgstr "رقم الحساب"
+
+#: tahweel-for-woocommerce.php:127
+msgid "IBAN"
+msgstr "آيبان"
+
+#: tahweel-for-woocommerce.php:144
+msgid "Vendor Details"
+msgstr "معلومات التاجر"
+
+#: tahweel-for-woocommerce.php:152
+msgid "Vendor Name"
+msgstr "اسم التاجر"
+
+#: tahweel-for-woocommerce.php:162
+msgid "Customer Details"
+msgstr "معلومات العميل"
+
+#: tahweel-for-woocommerce.php:166
+msgid "Choose your bank"
+msgstr "اختر البنك الخاص بك"
+
+#: tahweel-for-woocommerce.php:204
+msgid "Customer Account Name"
+msgstr "اسم الحساب المحول منه"
+
+#: tahweel-for-woocommerce.php:205
+msgid "Full Name As Registered With Bank"
+msgstr "الاسم كامل كما مسجل لدى البنك"
+
+#: tahweel-for-woocommerce.php:209
+msgid "Account Number/or IBAN"
+msgstr "رقم الحساب/ او الآيبان"
+
+#: tahweel-for-woocommerce.php:210
+msgid "Write Account Number/or IBAN"
+msgstr "اكتب رقم الحساب/ او الآيبان"
+
+#: tahweel-for-woocommerce.php:214
+msgid "Process Reference Number"
+msgstr "الرقم المرجعي لعملية التحويل"
+
+#: tahweel-for-woocommerce.php:215
+msgid "Write Transfer Reference Number"
+msgstr "اكتب الرقم المرجعي للتحويل"
+
+#: tahweel-for-woocommerce.php:219
+msgid "Your order will be executed only after checking the payment process"
+msgstr "لن يتم تنفيذ طلبك إلا بعد التحقق من عملية الدفع"
+
+#: tahweel-for-woocommerce.php:249
+msgid "Awaiting Tahweel Payment"
+msgstr ""
